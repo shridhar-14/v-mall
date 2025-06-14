@@ -32,7 +32,7 @@ V-Mall is a modern, mobile-first shopping app built using **React Native** and *
 > GitHub does not support embedding videos directly. Use a GIF or link to a YouTube/Google Drive video.
 
 ### ▶️ Watch the demo:
-[![App Demo Video](./assets/video-thumbnail.png)](https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing)
+[![App Demo Video]
 
 Alternatively, you can embed a GIF like this:
 
