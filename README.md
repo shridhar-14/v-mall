@@ -7,6 +7,7 @@ V-Mall is a modern, mobile-first shopping app built using **React Native** and *
 ![Product Listing](./assets//home.jpg)
 ![Cart Screen](./assets/crt.jpg)
 ![Profile Screen](./assets/profile2.jpg)
+![App Execution](./assets/execute.mp4)
 
 ---
 
