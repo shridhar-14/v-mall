@@ -1,14 +1,6 @@
 # 🛍️ V-Mall – Smart & Elegant Way of Shopping
 
 V-Mall is a modern, mobile-first shopping app built using **React Native** and **Expo**. It provides an elegant experience for browsing products, managing wishlists, adding to cart, and editing user profiles.
-
-![Welcome Screen](./assets/welcome.png)
-![Login Screen](./assets/login.jpg)
-![Product Listing](./assets//home.jpg)
-![Cart Screen](./assets/crt.jpg)
-![Profile Screen](./assets/profile2.jpg)
-![App Execution](./assets/execute.mp4)
-
 ---
 
 ## 📱 Features
@@ -21,3 +13,13 @@ V-Mall is a modern, mobile-first shopping app built using **React Native** and *
 - 🧠 Persistent Storage via AsyncStorage
 - 🌐 Smooth Navigation with Stack & Tab Navigators
 - 🎉 Animated Welcome Screen
+
+## ScreenShots
+![Welcome Screen](./assets/welcome.png)
+![Login Screen](./assets/login.jpg)
+![Product Listing](./assets//home.jpg)
+![Cart Screen](./assets/crt.jpg)
+![Profile Screen](./assets/profile2.jpg)
+
+## video
+![App Execution](./assets/execute.mp4)
